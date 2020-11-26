@@ -107,4 +107,62 @@ body {
 .post-tags p {
   margin: 0 10px 0 0;
 }
+
+/* Tags */
+.tags li {
+  display: inline;
+}
+
+.tags li a {
+  text-decoration: none;
+}
+
+.tags li .tag-size-1 {
+  font-size: 90%;
+}
+
+.tags li .tag-size-2 {
+  font-size: 100%;
+}
+
+.tags li .tag-size-3 {
+  font-size: 110%;
+}
+
+.tags li .tag-size-4 {
+  font-size: 120%;
+}
+
+.tags li .tag-size-5 {
+  font-size: 130%;
+}
+
+/* Authors*/
+.authors li {
+  display: inline;
+}
+
+.authors li a {
+  text-decoration: none;
+}
+
+.authors li .author-size-1 {
+  font-size: 90%;
+}
+
+.authors li .author-size-2 {
+  font-size: 100%;
+}
+
+.authors li .author-size-3 {
+  font-size: 110%;
+}
+
+.authors li .author-size-4 {
+  font-size: 120%;
+}
+
+.authors li .author-size-5 {
+  font-size: 130%;
+}
 /*# sourceMappingURL=style.css.map */
